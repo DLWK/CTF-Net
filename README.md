@@ -7,7 +7,7 @@ The code will be released in the furture https://github.com/Imwangkun/CTF-Net
 * PyTorch 0.4
 * configparser
 
-# How to run
+# How to run(CTF-Net)
 * run ```python prepare_datasets_DRIVE.py``` to generate hdf5 file of training data
 * run ```cd src```
 * run ```python retinaNN_training.py``` to train
