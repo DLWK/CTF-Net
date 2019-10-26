@@ -1,5 +1,7 @@
 # CTF-Net
 CTF-Net: Retinal vessel segmentation via Deep coarse-to-fine  supervision network
+# Submitted to the ISBI2020
+The code will be relesed in the future https://github.com/Imwangkun/CTF-Net
 # Requirement
 * Python3.6
 * PyTorch 0.4
