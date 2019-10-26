@@ -5,7 +5,7 @@ CTF-Net: Retinal vessel segmentation via Deep coarse-to-fine  supervision networ
 * Python3.6
 * PyTorch 0.4
 * configparser
-
+The code will be relesed in the future https://github.com/Imwangkun/CTF-Net
 # How to run(CTF—Net)
 * run ```python prepare_datasets_DRIVE.py``` to generate hdf5 file of training data
 * run ```cd src```
