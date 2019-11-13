@@ -1,4 +1,4 @@
-# CTF-NetN
+# CTF-Net
 CTF-Net: Retinal Vessel Segmentation via Deep Coarse-to-Fine Supervision Network
 # Submitted to the ISBI2020
 The code will be relesed in the future https://github.com/Imwangkun/CTF-Net
