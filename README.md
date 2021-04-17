@@ -41,6 +41,7 @@ The following table compares this method to other recent techniques, which have 
 
 ## Citation
 - If you find this work is helpful, please cite our paper
+```
 @inproceedings{wang2020ctf,
   title={CTF-Net: Retinal Vessel Segmentation via Deep Coarse-To-Fine Supervision Network},
   author={Wang, Kun and Zhang, Xiaohong and Huang, Sheng and Wang, Qiuli and Chen, Feiyu},
