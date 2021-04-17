@@ -1,6 +1,6 @@
 # CTF-Net
 CTF-Net: Retinal Vessel Segmentation via Deep Coarse-to-Fine Supervision Network
-# Submitted to the ISBI2020
+
 The code will be relesed in https://github.com/Imwangkun/CTF-Net
 # Requirement
 * Python3.6
@@ -38,3 +38,14 @@ The results reported in the `./test` folder are referred to the trained model wh
   - `test_Original_GroundTruth_Prediction*.png` from top to bottom, the original pre-processed image, the ground truth and the prediction. In the predicted image, each pixel shows the vessel predicted probability, no threshold is applied.
 
 The following table compares this method to other recent techniques, which have published their performance in terms of Area Under the ROC curve (AUC ROC) on the DRIVE dataset.
+
+## Citation
+- If you find this work is helpful, please cite our paper
+@inproceedings{wang2020ctf,
+  title={CTF-Net: Retinal Vessel Segmentation via Deep Coarse-To-Fine Supervision Network},
+  author={Wang, Kun and Zhang, Xiaohong and Huang, Sheng and Wang, Qiuli and Chen, Feiyu},
+  booktitle={2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)},
+  pages={1237--1241},
+  year={2020},
+  organization={IEEE}
+}
