@@ -49,5 +49,5 @@ The following table compares this method to other recent techniques, which have 
   pages={1237--1241},
   year={2020},
   organization={IEEE}
-}
+
 ```
